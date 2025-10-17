@@ -1,0 +1,49 @@
+"app_title" = "Чистый капитал";
+"language_picker" = "Язык";
+
+"summary_title" = "Ваш чистый капитал";
+"summary_net_worth_kzt" = "Чистый капитал в ₸";
+"summary_net_worth_usd" = "Чистый капитал в $";
+"summary_assets" = "Активы";
+"summary_liabilities" = "Обязательства";
+
+"assets_title" = "Активы";
+"asset_cash" = "Наличные";
+"asset_deposits" = "Депозиты в банках РК";
+"asset_kase" = "Инвестиции на KASE";
+"asset_aix" = "Инвестиции на AIX";
+"asset_international" = "Международные инвестиции";
+"asset_real_estate" = "Недвижимость";
+"asset_business" = "Бизнес";
+
+"liabilities_title" = "Обязательства";
+"liability_kaspi" = "Кредиты Kaspi";
+"liability_mortgage" = "Ипотека";
+"liability_other" = "Другие долги";
+
+"chart_title" = "Динамика чистого капитала";
+"chart_description" = "Слежение за ростом состояния по месяцам.";
+
+"ladder_title" = "Лестница богатства Казахстана";
+"ladder_current" = "Текущая ступень";
+"ladder_starter" = "Старт: до 2 млн ₸";
+"ladder_builder" = "Укрепление: до 10 млн ₸";
+"ladder_accumulator" = "Накопитель: до 40 млн ₸";
+"ladder_investor" = "Инвестор: до 150 млн ₸";
+"ladder_established" = "Укрепившийся: до 500 млн ₸";
+"ladder_legacy" = "Наследие: до 1 млрд ₸";
+"ladder_elite" = "Элита: до 5 млрд ₸";
+"ladder_ultra" = "Ультра: до 10 млрд ₸";
+"ladder_sovereign" = "Суверенный капитал";
+
+"ai_title" = "AI-рекомендации";
+"ai_increase_cash" = "Увеличьте резерв наличности и вкладов до 3-6 месяцев расходов.";
+"ai_reduce_debt" = "Сократите долговую нагрузку: направляйте бонусы и дополнительный доход на погашение.";
+"ai_expand_international" = "Рассмотрите рост доли международных активов для диверсификации.";
+"ai_review_real_estate" = "Проверьте доходность недвижимости и возможность рефинансирования.";
+"ai_develop_business" = "Инвестируйте в развитие бизнеса для роста доходов.";
+"ai_keep_up" = "Отличный прогресс! Продолжайте текущую стратегию.";
+
+"debt_plan_title" = "План выхода из долгов";
+"debt_plan_empty" = "Нет активных долговых обязательств.";
+"debt_plan_completion" = "Свобода от долгов в %@";

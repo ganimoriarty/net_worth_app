@@ -1,0 +1,49 @@
+"app_title" = "Таза капитал";
+"language_picker" = "Тіл";
+
+"summary_title" = "Сіздің таза капиталыңыз";
+"summary_net_worth_kzt" = "Таза капитал ₸";
+"summary_net_worth_usd" = "Таза капитал $";
+"summary_assets" = "Активтер";
+"summary_liabilities" = "Міндеттемелер";
+
+"assets_title" = "Активтер";
+"asset_cash" = "Қолма-қол";
+"asset_deposits" = "Қазақстан банктеріндегі депозиттер";
+"asset_kase" = "KASE инвестициялары";
+"asset_aix" = "AIX инвестициялары";
+"asset_international" = "Халықаралық инвестициялар";
+"asset_real_estate" = "Жылжымайтын мүлік";
+"asset_business" = "Бизнес";
+
+"liabilities_title" = "Міндеттемелер";
+"liability_kaspi" = "Kaspi несиелері";
+"liability_mortgage" = "Ипотека";
+"liability_other" = "Басқа қарыздар";
+
+"chart_title" = "Таза капитал динамикасы";
+"chart_description" = "Айлар бойынша өсімді бақылаңыз.";
+
+"ladder_title" = "Қазақстан байлық сатысы";
+"ladder_current" = "Ағымдағы деңгей";
+"ladder_starter" = "Бастау: 2 млн ₸ дейін";
+"ladder_builder" = "Құраушы: 10 млн ₸ дейін";
+"ladder_accumulator" = "Жинақтаушы: 40 млн ₸ дейін";
+"ladder_investor" = "Инвестор: 150 млн ₸ дейін";
+"ladder_established" = "Тұрақталған: 500 млн ₸ дейін";
+"ladder_legacy" = "Мұра: 1 млрд ₸ дейін";
+"ladder_elite" = "Элита: 5 млрд ₸ дейін";
+"ladder_ultra" = "Ультра: 10 млрд ₸ дейін";
+"ladder_sovereign" = "Суверенді капитал";
+
+"ai_title" = "AI кеңестері";
+"ai_increase_cash" = "Резервті 3-6 айлық шығынға дейін өсіріңіз.";
+"ai_reduce_debt" = "Қарыз жүктемесін азайтыңыз: бонустар мен қосымша табысты төлемге бағыттаңыз.";
+"ai_expand_international" = "Диверсификация үшін халықаралық активтер үлесін арттыруды қарастырыңыз.";
+"ai_review_real_estate" = "Жылжымайтын мүлік кірістілігін және рефинанс мүмкіндігін бағалаңыз.";
+"ai_develop_business" = "Кірісті өсіру үшін бизнесті дамытыңыз.";
+"ai_keep_up" = "Керемет нәтиже! Қазіргі стратегияны жалғастырыңыз.";
+
+"debt_plan_title" = "Қарыздан шығу жоспары";
+"debt_plan_empty" = "Белсенді қарыз міндеттемелері жоқ.";
+"debt_plan_completion" = "Қарыздардан босану %@";
